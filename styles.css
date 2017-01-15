@@ -3,6 +3,13 @@ body
 	font-family: arial;
 }
 
+
+.container 
+{
+	padding: 20px;
+	text-align: center;
+}
+
 .grid-row
 {
 	display: inline-block;
@@ -10,8 +17,8 @@ body
 
 .grid-square
 {
-	height: 8px;
-	width: 8px;
+	height: 18px;
+	width: 18px;
 	border: 1px solid black;
 }
 
